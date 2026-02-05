@@ -15,7 +15,7 @@ Make sure Python 3 is installed on your system.
 Run the following command in the terminal:
 
 ~~~bash
-python calculator.py
+python calculator_v2.py
 ~~~
 
 ---
@@ -53,10 +53,10 @@ Version Control
 
 ## Project Structure
 
-calculator_v2.py      Main and current version of the calculator
-calculator_v1.py   Second functional version created during learning
-calculator_v0.py   First functional version created during learning
-README.md          Project documentation
+* **calculator_v2.py**: Main and current version of the calculator.
+* **calculator_v1.py**: Second functional version created during learning.
+* **calculator_v0.py**: First functional version created during learning.
+* **README.md**: Project documentation.
 
 ---
 
